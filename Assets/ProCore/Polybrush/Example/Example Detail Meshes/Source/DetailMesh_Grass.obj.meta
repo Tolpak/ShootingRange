@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 2d046e78beceb4c42b8ffa9afa79105a
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     100002: pb-MergedObject-481522_0
@@ -30,12 +30,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Grass_0Mat
-    second: {fileID: 2100000, guid: 72c270a5753130546b00ee2ea5a3fd1b, type: 2}
+    second: {fileID: 2100000, guid: 7e02d6717d3cd9f45b0ce078ee98e2fa, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Grass_1Mat
-    second: {fileID: 2100000, guid: 58a6955e3aadd03429eb514a257a752e, type: 2}
+    second: {fileID: 2100000, guid: 7f904d558918c8643afcfe8bb1a48124, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -96,6 +96,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -115,7 +117,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

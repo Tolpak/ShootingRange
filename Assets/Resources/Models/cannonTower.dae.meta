@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 014ae53ab96b4194b83cf356f8f401a7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TowerBanners01
+    100004: TowerBanners02
+    100006: TowerFrame
+    100008: TowerInsides
+    100010: TurretCannon01
+    100012: TurretCannon02
+    100014: TurretCannon03
+    100016: TurretCannonsRing
+    100018: TurretGear
+    100020: TurretHolder01
+    100022: TurretHolder02
+    100024: TurretPlatform
+    100026: TurretScrew01
+    100028: TurretScrew02
+    400000: //RootNode
+    400002: TowerBanners01
+    400004: TowerBanners02
+    400006: TowerFrame
+    400008: TowerInsides
+    400010: TurretCannon01
+    400012: TurretCannon02
+    400014: TurretCannon03
+    400016: TurretCannonsRing
+    400018: TurretGear
+    400020: TurretHolder01
+    400022: TurretHolder02
+    400024: TurretPlatform
+    400026: TurretScrew01
+    400028: TurretScrew02
+    2100000: base_material
+    2100002: banners01_material
+    2100004: gear02_material
+    2100006: banners02_material
+    2100008: frame_material
+    2100010: screw01_material
+    2100012: screw02_material
+    2100014: holder_material
+    2100016: ring_material
+    2100018: pipe03_material
+    2100020: pipe02_material
+    2100022: pipe01_material
+    2100024: gear01_material
+    2300000: TowerBanners01
+    2300002: TowerBanners02
+    2300004: TowerFrame
+    2300006: TowerInsides
+    2300008: TurretCannon01
+    2300010: TurretCannon02
+    2300012: TurretCannon03
+    2300014: TurretCannonsRing
+    2300016: TurretGear
+    2300018: TurretHolder01
+    2300020: TurretHolder02
+    2300022: TurretPlatform
+    2300024: TurretScrew01
+    2300026: TurretScrew02
+    3300000: TowerBanners01
+    3300002: TowerBanners02
+    3300004: TowerFrame
+    3300006: TowerInsides
+    3300008: TurretCannon01
+    3300010: TurretCannon02
+    3300012: TurretCannon03
+    3300014: TurretCannonsRing
+    3300016: TurretGear
+    3300018: TurretHolder01
+    3300020: TurretHolder02
+    3300022: TurretPlatform
+    3300024: TurretScrew01
+    3300026: TurretScrew02
+    4300000: TowerFrame
+    4300002: TowerInsides
+    4300004: TurretPlatform
+    4300006: TowerBanners02
+    4300008: TowerBanners01
+    4300010: TurretHolder02
+    4300012: TurretScrew01
+    4300014: TurretScrew02
+    4300016: TurretHolder01
+    4300018: TurretCannonsRing
+    4300020: TurretCannon03
+    4300022: TurretCannon01
+    4300024: TurretCannon02
+    4300026: TurretGear
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banners01_material
+    second: {fileID: 2100000, guid: 812ab2445f0ce744fbde0809ff223d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banners02_material
+    second: {fileID: 2100000, guid: 286b277291191c4459150cd03aae44c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base_material
+    second: {fileID: 2100000, guid: 1f491d1fd9334d34d8eb18077bc8f78a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_material
+    second: {fileID: 2100000, guid: 3b5d11cd2bfe8d04692c3af5b91ee171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gear01_material
+    second: {fileID: 2100000, guid: fcc275e0d8a117f4b9504457103212df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gear02_material
+    second: {fileID: 2100000, guid: fd9f71e6c6952354c8147ba8900ccc3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: holder_material
+    second: {fileID: 2100000, guid: d2ac27490b1118e41a0dfc6e67306174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipe01_material
+    second: {fileID: 2100000, guid: d63633a16d167ed4d85b129d96c2f9b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipe02_material
+    second: {fileID: 2100000, guid: 2a6a5d34a13113248b5d6a50f8aa65ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipe03_material
+    second: {fileID: 2100000, guid: c93886af4401d6b4f9f1b9f7e1bdf5a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ring_material
+    second: {fileID: 2100000, guid: 70ce3e6a0da92264f8223edd64ebf2f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screw01_material
+    second: {fileID: 2100000, guid: ca6c03578197a264089ef256409de97f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screw02_material
+    second: {fileID: 2100000, guid: 32be06f1fb0c0a048bbd81f15ebb90dd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.7
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
